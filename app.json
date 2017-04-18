@@ -4,11 +4,11 @@
   "repository": "https://github.com/line/line-login-starter",
   "env": {
     "LINECORP_PLATFORM_CHANNEL_CHANNELID": {
-      "description": "Channel ID",
+      "description": "1511011862",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CHANNELSECRET": {
-      "description": "Channel secret",
+      "description": "5e9515867127c66a1463a58efd2e8fca",
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CALLBACKURL": {
